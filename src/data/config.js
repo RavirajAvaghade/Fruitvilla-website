@@ -11,7 +11,7 @@ export const BRAND = {
 // Delivery charges (in INR).
 export const DELIVERY = {
   charge: 40,
-  freeAbove: 500,
+  freeAbove: 500, 
 };
 
 // DEMO serviceable PIN codes. Edit this list to change where delivery is "available".
